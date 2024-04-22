@@ -1,2 +1,2 @@
-# HR-data-Analytics
-This is my second project on POWER BI
+
+https://app.powerbi.com/view?r=eyJrIjoiYjcyNjdjZDMtY2I2Yy00MmM0LTkzNzUtYTE2NzhjYzQ2ZjI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
